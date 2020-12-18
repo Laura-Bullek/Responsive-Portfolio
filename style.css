@@ -8,11 +8,11 @@ body {
 
 .bio-picture {
     display: block;
-    height: 25%;
-    width: 25%;
+    height: 250px;
+    width: 250px;
     float: left;
 }
 .container {
-    border: solid black 10px;
-    background-color: rgb(233, 231, 223);
+    border: solid black 1px;
+    background-color: #f7f2f2;
 }
