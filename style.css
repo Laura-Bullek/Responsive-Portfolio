@@ -15,8 +15,8 @@ body {
 .container {
     border: solid black 1px;
     background-color: #f7f2f2;
+    padding: 0 auto;
 }
-.small-middle-container{
-	margin: auto;
-    width: 50%;
+.portfolio-title {
+    color:aqua;
 }
