@@ -16,3 +16,7 @@ body {
     border: solid black 1px;
     background-color: #f7f2f2;
 }
+.small-middle-container{
+	margin: auto;
+    width: 50%;
+}
