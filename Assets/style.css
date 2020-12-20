@@ -19,8 +19,8 @@ body {
     background-color: #f7f2f2;
     padding: 0 auto;
 }
-.portfolio-title {
-    color:aqua;
+h1 {
+    columns: #333333;
     text-align: center;
 }
 .col {
@@ -39,9 +39,7 @@ button {
 form {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.about-me {
-    text-align: center;
-}
+
 .col img {
     width: 350px;
     height: 350px;
