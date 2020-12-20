@@ -19,4 +19,13 @@ body {
 }
 .portfolio-title {
     color:aqua;
+    text-align: center;
+}
+.col {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+    margin-left: 50px;
 }
