@@ -9,7 +9,7 @@ This project was built to demonstrate how a web application will render on vario
 
 The ficticious guest was a marketing agency, and I reworked the code to make it more efficient and organized to make the structure of the HTML more semantic.
 
-[WeekOne.png](https://postimg.cc/Y4xCNh0N)
+![Meet Laura screenshot](https://imgur.com/eVH69D7)
 # Installation
 No installations required for this project.
 # Usage
