@@ -42,3 +42,10 @@ form {
 .about-me {
     text-align: center;
 }
+.col img {
+    width: 350px;
+    height: 350px;
+}
+.social-media img {
+    width: 50px;
+}
