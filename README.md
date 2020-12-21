@@ -38,8 +38,8 @@ No installations required for this project.
 # Credits 
 My web development bootcamp program is offered through the Unniversity of New Hampshire Professional Development & Training and Trilogy Education Services.
 
-Instructor- [GitHub](https://github.com/switch120)
-TA- [GitHub](https://michaelfearnley.com/)
+Instructor - Scott Byers [GitHub](https://github.com/switch120)
+TA - Michael Fearnley [GitHub](https://michaelfearnley.com/)
 
 # Usage
 Below are the links to this project:
