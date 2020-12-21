@@ -12,8 +12,10 @@ The ficticious guest was a marketing agency, and I reworked the code to make it 
 ![About Me Page](https://i.postimg.cc/MGRyqFN4/About-Me-png.png)
 ![Portfolio Page](https://i.postimg.cc/WztzbDt3/screencapture-laura-bullek-github-io-Responsive-Portfolio-portfolio-html-2020-12-20-19-49-58.png)
 ![Contact Page](https://i.postimg.cc/Kcs4p5sg/screencapture-laura-bullek-github-io-Responsive-Portfolio-contact-html-2020-12-20-19-50-54.png)
+
 # Installation
 No installations required for this project.
+
 # Usage
 Below are the links to this project:
 [GitHub] (https://https://github.com/Laura-Bullek/Responsive-Portfolio)
