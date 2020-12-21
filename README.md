@@ -35,6 +35,12 @@ Minimum Requirements
 # Installation
 No installations required for this project.
 
+# Credits 
+My web development bootcamp program is offered through the Unniversity of New Hampshire Professional Development & Training and Trilogy Education Services.
+
+Instructor- ![ScottByers](https://github.com/switch120)
+TA- ![Mike](https://michaelfearnley.com/)
+
 # Usage
 Below are the links to this project:
 [GitHub] (https://https://github.com/Laura-Bullek/Responsive-Portfolio)
