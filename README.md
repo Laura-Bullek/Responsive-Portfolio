@@ -6,8 +6,27 @@ The **Responsive-Portfolio** project is the second homework assignment of the No
 
 This project was built to demonstrate how a web application will render on various screens or window sizes, such as a tablet, desktop, or mobile phone. The project required a Bootstrap framework, custom CSS syling and HTML built from scratch. It also needed to include the following items:
 
+Minimum Requirements
+- Functional, deployed application
 
-The ficticious guest was a marketing agency, and I reworked the code to make it more efficient and organized to make the structure of the HTML more semantic.
+- GitHub repository with README describing the project
+
+- Navbar must be consistent on each page.
+
+- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+
+- All links must work.
+
+- Must use semantic html.
+
+- Each page must have valid and correct HTML. (use a validation service)
+
+- Must contain your personalized information. (bio, name, images, links to social media, etc.)
+
+- Must properly utilize Bootstrap components and grid system.
+
+## Bonus
+- Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
 
 ![About Me Page](https://i.postimg.cc/MGRyqFN4/About-Me-png.png)
 ![Portfolio Page](https://i.postimg.cc/WztzbDt3/screencapture-laura-bullek-github-io-Responsive-Portfolio-portfolio-html-2020-12-20-19-49-58.png)
