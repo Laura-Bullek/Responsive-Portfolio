@@ -29,8 +29,8 @@ Minimum Requirements
 - Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
 
 ![About Me Page](https://i.postimg.cc/MGRyqFN4/About-Me-png.png)
-![Portfolio Page](https://i.postimg.cc/kX9Ps02f/Git-Hub-io-Portfolio.png)
-![Contact Page](https://i.postimg.cc/wB1C3HrT/Git-Hub-io-Contact.png)
+![Portfolio Page](https://i.postimg.cc/WztzbDt3/screencapture-laura-bullek-github-io-Responsive-Portfolio-portfolio-html-2020-12-20-19-49-58.png)
+![Contact Page](https://i.postimg.cc/Kcs4p5sg/screencapture-laura-bullek-github-io-Responsive-Portfolio-contact-html-2020-12-20-19-50-54.png)
 
 # Installation
 No installations required for this project.
